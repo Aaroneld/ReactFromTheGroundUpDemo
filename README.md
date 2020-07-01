@@ -22,7 +22,7 @@ Sides effects in React are operations you want to occur after a certain conditio
 
 Routing is how we navigate between different locations in an application. For Web Applications this is how we navigate between pages i.e. how and if we can get from one page to another. React requires the addition of an extra library, react-router, in order to facilitate routing. React-Router is essentially a component library which wraps the functionality you would expect natively from anchor tags and seperate HTML pages in React components so that these essential web site features can be utilized with React. Below is a visual of the routing flow for this application. 
 
-<img src="./GhibliRouting.PNG"
+<img src="./app/assets/GhibliRouting.PNG"
      alt="Color Palette"
      style="float: left; margin-right: 10px;" /> 
 
@@ -34,7 +34,7 @@ Link to API specs: https://ghibliapi.herokuapp.com/
 
 ### Color Palette 
 
-<img src="./ghibli.png"
+<img src="./app/assets/ghibli.png"
      alt="Color Palette"
      style="float: left; margin-right: 10px;" />
 
