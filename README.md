@@ -2,7 +2,7 @@
 
 Link to API specs: https://ghibliapi.herokuapp.com/
 
-<img src="./Ghibli.png"
+<img src="./ghibli.png"
      alt="Color Palette"
-     style="float: left; margin-right: 10px; height: 25px" />
+     style="float: left; margin-right: 10px;" />
 
