@@ -4,5 +4,5 @@ Link to API specs: https://ghibliapi.herokuapp.com/
 
 <img src="./Ghibli.png"
      alt="Color Palette"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; height: 50px" />
 
