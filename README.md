@@ -8,7 +8,7 @@ State is a concept deeply embedded in the science of programming. Essentially st
 
 For example: by changing another piece of stateful data, or by updating the HTML to reflect that changed information. 
 
- * `useState` as with all React hook methods are utilized within the interior of a component function as the component functions are the place where you specify the design of your application unit by unit (function by function)*
+ *`useState` as with all React hook methods are utilized within the interior of a component function as the component functions are the place where you specify the design of your application unit by unit (function by function)*
 
 **What are Props?**
 
