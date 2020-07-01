@@ -11,7 +11,7 @@ Link to API specs: https://ghibliapi.herokuapp.com/
 This walk through will entail the creation of a three-page React application which will utilize the Studio Ghibli API to display data about movies allowing user's to choose their favorites and save them 
 
 
-<img src="./GhibliRouting.png"
+<img src="./GhibliRouting.PNG"
      alt="Color Palette"
      style="float: left; margin-right: 10px;" />
 
