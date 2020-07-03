@@ -10,7 +10,12 @@ const Container = styled.div`
     justify-content: center;
     align-items: center;
 
+    border-radius: 50% 0 0 0;
 
+    p {
+        color: #EFE9F4;
+        font-weight: bold;
+    }
 `;
 
 

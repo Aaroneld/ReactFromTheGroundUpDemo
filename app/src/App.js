@@ -20,7 +20,7 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div className="App" style={{background: "#EFE9F4", overflow: "hidden", maxWidth: "100vw"}}>
       <Switch>
         <Route exact path="/">
           <Login />
