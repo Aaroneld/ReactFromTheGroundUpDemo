@@ -53,7 +53,8 @@ const Container = styled.div`
 
             content: "";
             background-image: url(${halfTone});
-            background-size: contain;
+            background-size: cover;
+            background-repeat: no-repeat;
             position: absolute;
             opacity: .1;
             top: 0px;
