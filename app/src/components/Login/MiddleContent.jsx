@@ -140,7 +140,7 @@ function MiddleContent (props) {
     return (
         <Container>
             <div>
-                <img src={ghibiliLogo} alt="ghibli logo" />
+                <img className="ghibli-image" src={ghibiliLogo} alt="ghibli logo" />
             </div>
             <div className="register">
                 <form>

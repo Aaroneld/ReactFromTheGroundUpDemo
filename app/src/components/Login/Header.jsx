@@ -76,6 +76,7 @@ form {
 
     button {
         padding: 2% 5.5%;
+        min-width: 10vw;
         background: rgba(0,0,0,0);
         color: #EFE9F4;
         border: 3px solid #EFE9F4;

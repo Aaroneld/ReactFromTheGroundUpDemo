@@ -8,3 +8,69 @@
   font-family: 'Acme', sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
+.register {
+  /* animation: register-animation 5s ease-in 0 1 normal; */
+  animation-name: register-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+
+.ghibli-image {
+  animation-name: ghibli-scale;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-delay: 2.5s;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+
+}
+
+.footer {
+  animation-name: footer-animation;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-delay: 3.5s;
+  animation-fill-mode: forwards;
+  transform: translateY(20vh);
+}
+
+@keyframes register-animation {
+  from {
+    transform: translate(40vw);
+  }
+
+  to {
+    transform: translate(0);
+  }
+}
+
+@keyframes ghibli-scale {
+  from {
+    transform: scale(0);
+    visibility: visible;
+  }
+
+  to {
+    visibility: visible;
+    transform: scale(1);
+  }
+}
+
+@keyframes footer-animation {
+  from {
+    transform: translateY(20vh);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+

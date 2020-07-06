@@ -23,7 +23,7 @@ function Footer (props) {
 
 
     return (
-        <Container>
+        <Container className="footer">
             <p>Copyright 2020</p>
         </Container>
     )
